@@ -39,6 +39,8 @@ h1 {
     font-family: "Sour Gummy", serif;
     font-style: normal;
     text-align: center;
+    font-variation-settings:
+    "wdth" 450;
 }
 
 h2 {
