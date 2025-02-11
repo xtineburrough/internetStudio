@@ -36,8 +36,15 @@ body {
 
 h1 {
   color: black;
-  font-size: 3rem;
-  text-align: center;
+  .sour-gummy-<uniquifier> {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
 }
 
 h2 {
