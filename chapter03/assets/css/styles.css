@@ -63,3 +63,8 @@ a:visited {
 h3 a:hover {
   color: white;
 }
+.staatliches-regular {
+  font-family: "Staatliches", serif;
+  font-weight: 400;
+  font-style: normal;
+}
