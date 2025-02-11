@@ -71,3 +71,12 @@ a:visited {
 h3 a:hover {
   color: white;
 }
+
+
+h2 {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
